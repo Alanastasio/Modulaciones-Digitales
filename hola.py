@@ -31,7 +31,7 @@ plt.plot(t,DBL,label="modulada")
 plt.plot(t,msj,label="mensaje")
 plt.legend(loc='upper right')
 plt.xlabel("t[s]")
-plt.title("Demodulada y mensaje")
+plt.title("Demodulada y mensaje") 
 
 
 plt.figure()
